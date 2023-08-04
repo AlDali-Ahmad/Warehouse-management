@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Warehouse_Management_2.props" />
+</Project>
